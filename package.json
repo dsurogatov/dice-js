@@ -1,0 +1,23 @@
+{
+  "name": "org.dsu.dice",
+  "version": "1.0.1",
+  "description": "The Geomotiv's test task.",
+  "main": "lib/dice",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "DSurogatov",
+  "license": "ISC",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsurogatov/dice-js.git"
+  },
+  "dependencies": {
+    "random-js": "1.0.8"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
